@@ -1,0 +1,149 @@
+.mdiv{
+    height: 100vh;
+    width: 100%;    
+    background-color: white;
+}
+.nav{
+    height: 60px;
+    width: 100%;
+    background-color: lightgrey;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.nav a{
+    margin-right: 10px;
+    margin: center;
+    font-weight: bolder;
+    font-size: larger;
+    transition-duration: 0.3s;
+    padding: 10px;
+    align: center;
+
+}
+.nav a:hover{
+    color: red;
+    transform: scale(1.1);
+}
+.nav img{
+    margin-top: 10px;
+}
+.a1{
+    
+    display: inline-flex;
+}
+.a1 a{
+    margin-right: 10px;
+    font-weight: bolder;
+}
+.ta1{
+    width: 100%;
+    height: 80vh;
+}
+.c1{
+    height: 200px;
+    width: 500px;
+    padding: 90px;
+    margin-top: 20px;
+
+}
+.c2 img{
+    height: 400px;
+    width: 600px;
+    margin-top: 20px;
+    right: 50px;
+    size: 80px;
+    right: 90px;
+    
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    text-align: right;    
+}
+#h{
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+#h1{
+    color: black;
+    font-size: 40px;
+    font-weight: bolder;
+}
+button{
+   background-color: red;
+   color: white;
+   border: none;
+   border-radius: 4px;
+   width: 99px;
+   padding: 10px; 
+   font-weight: bolder; 
+}
+button:hover{
+    background-color: white;
+    color: red;
+    box-shadow: 0px 0px 10px red;
+    transform: scale(1.2);
+    font-weight: bolder;
+} 
+#d1{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+}
+#d1:hover{
+    box-shadow: 0px 0px 30px gray;
+    transform: scale(1.1);
+}
+#d2{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+}
+#d2:hover{
+    box-shadow: 0px 0px 30px gray;
+    transform: scale(1.1);
+}
+#d3{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+}
+#d3:hover{
+    box-shadow: 0px 0px 30px gray;
+    transform: scale(1.1);
+}
+.t4 img{
+    height: 500px;
+}
+.t4{
+    margin-top: 0px;
+    height: 300px;
+}
+.t2 span{
+    margin-left: 500px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.t3 span{
+    margin-left: 500px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+p{
+    text-indent: 10px;
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-overflow: clip;
+    word-spacing: 3px;
+    text-rendering: geometricPrecision;
+}
+
